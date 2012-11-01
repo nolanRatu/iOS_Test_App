@@ -33,6 +33,8 @@
     //Trying to commit
     
     //Added a remote
+    
+    //Tray again
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
